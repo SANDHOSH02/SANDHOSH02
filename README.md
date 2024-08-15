@@ -1,5 +1,7 @@
+<div align="center">
+  <img src="./profile.png" alt="Header" />
+</div>
 
-![Header](./profile.png)
 
 <div align="center">
   <h2>About Me</h2>
