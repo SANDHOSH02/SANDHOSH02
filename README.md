@@ -1,3 +1,6 @@
+
+![Header](./profile.png)
+
 <div align="center">
   <h2>About Me</h2>
   <p style="font-size: 20px; font-weight: bold;">
