@@ -46,12 +46,4 @@
   </a>
 </div>
 
-![Isometric Commit Calendar](https://github.com/SANDHOSH02/SANDHOSH02/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
-## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SANDHOSH02" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANDHOSH02&layout=compact&langs_count=8&card_width=320" />
-</a>
