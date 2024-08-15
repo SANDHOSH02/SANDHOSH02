@@ -1,18 +1,22 @@
-![Header](https://github.com/SANDHOSH02/README/raw/main/github-header-image.png)
+<div align="center">
+  <h2>About Me</h2>
+  <p style="font-size: 20px; font-weight: bold;">
+    🎓 <span style="color: #4CAF50;">Student</span> | B.Tech Artificial Intelligence and Data Science<br>
+    💻 <span style="color: #4CAF50;">React.js Developer</span>
+  </p>
+</div>
 
-## About Me
-🎓 Student | B.Tech Artificial Intelligence and Data Science  
-💻 React.js Developer
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SANDHOSH02" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANDHOSH02&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SANDHOSH02" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANDHOSH02&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 ### Languages and Tools:
-<p align="left">
+<div align="center" style="margin-top: 20px;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="border: 2px solid #ccc; padding: 10px; margin: 10px; border-radius: 10px;"/>
   </a>
@@ -40,4 +44,4 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="60" height="60" style="border: 2px solid #ccc; padding: 10px; margin: 10px; border-radius: 10px;"/>
   </a>
-</p>
+</div>
