@@ -8,7 +8,7 @@
   <h2 style="font-size: 36px; font-weight: bold; margin-top: 30px; color: #4CAF50;">About Me</h2>
   <p style="font-size: 22px; font-weight: bold;">
     🎓 <span style="color: #FF5722;">Student</span> | B.Tech Artificial Intelligence and Data Science<br>
-    💻 <span style="color: #FF5722;">React.js Developer</span>
+    💻 <span style="color: #FF5722;"> Developer</span>
   </p>
 </div>
 
