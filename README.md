@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.png" alt="Header" style="border-radius: 10px; border: 3px solid #4CAF50; width: 100%; max-width: 800px;" />
+  <img src="./github-header-image.png" alt="Header" style="border-radius: 10px; border: 3px solid #4CAF50; width: 100%; max-width: 800px;" />
 </div>
 
 ---
