@@ -32,6 +32,24 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mongodb,git,github,mysql,firebase,bootstrap,tailwind,vscode,sublime,vite" alt="Skills Icons" style="margin: 10px; border-radius: 10px; border: 2px solid #4CAF50;" />
   </a>
+
+  <div style="margin-top: 20px;">
+    <p style="font-size: 18px; margin: 5px;">HTML</p>
+    <p style="font-size: 18px; margin: 5px;">CSS</p>
+    <p style="font-size: 18px; margin: 5px;">JavaScript</p>
+    <p style="font-size: 18px; margin: 5px;">React.js</p>
+    <p style="font-size: 18px; margin: 5px;">Python</p>
+    <p style="font-size: 18px; margin: 5px;">MongoDB</p>
+    <p style="font-size: 18px; margin: 5px;">Git</p>
+    <p style="font-size: 18px; margin: 5px;">GitHub</p>
+    <p style="font-size: 18px; margin: 5px;">MySQL</p>
+    <p style="font-size: 18px; margin: 5px;">Firebase</p>
+    <p style="font-size: 18px; margin: 5px;">Bootstrap</p>
+    <p style="font-size: 18px; margin: 5px;">Tailwind</p>
+    <p style="font-size: 18px; margin: 5px;">VS Code</p>
+    <p style="font-size: 18px; margin: 5px;">Sublime Text</p>
+    <p style="font-size: 18px; margin: 5px;">Vite</p>
+  </div>
 </div>
 
 ---
