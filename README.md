@@ -17,6 +17,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDHOSH02&theme=blue_navy" alt="GitHub Streak Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
 </div>
 
+
+
+  <!-- Compact Top Languages Section -->
+  <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Top Languages</h2>
+  <div style="display: flex; justify-content: center; margin: 20px 0;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=compact&theme=blue_navy" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
+    </a>
+  </div>
 <!-- Contact Section -->
 <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Get In Touch</h2>
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -27,15 +36,6 @@
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" style="border-radius: 10px;">
   </a>
 </div>
-
-
-  <!-- Compact Top Languages Section -->
-  <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Top Languages</h2>
-  <div style="display: flex; justify-content: center; margin: 20px 0;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=compact&theme=blue_navy" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
-    </a>
-  </div>
 
   <!-- Skills Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Skills</h2>
@@ -50,3 +50,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=SANDHOSH02&theme=onedark" alt="GitHub Trophies" style="max-width: 100%; height: auto; border-radius: 10px;">
   </div>
 </div>
+
+
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Stars</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+  <img src="https://img.shields.io/github/stars/SANDHOSH02?style=social" alt="GitHub Stars">
+</div>
+
