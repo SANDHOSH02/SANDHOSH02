@@ -12,7 +12,6 @@
   </p>
 </div>
 
-
 ---
 
 <div align="center">
@@ -27,39 +26,14 @@
 
 ---
 
-### Languages and Tools:
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
+<div align="center">
+  <h2 style="font-size: 36px; font-weight: bold; margin-top: 30px; color: #4CAF50;">Skills</h2>
+  <p style="font-size: 20px;">Technologies I work with:</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mongodb,git,github,mysql,firebase,bootstrap,tailwind,vscode,sublime,vite" alt="Skills Icons" style="margin: 10px; border-radius: 10px; border: 2px solid #4CAF50;" />
   </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
-  </a>
-
-  
 </div>
 
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SANDHOSH02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
