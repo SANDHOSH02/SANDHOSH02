@@ -56,7 +56,10 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="60" height="60" style="border: 2px solid #4CAF50; padding: 10px; margin: 10px; border-radius: 10px;"/>
   </a>
+
+  
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SANDHOSH02)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SANDHOSH02-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
