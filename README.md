@@ -60,6 +60,6 @@
   
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SANDHOSH02-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SANDHOSH02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
