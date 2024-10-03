@@ -52,8 +52,3 @@
 </div>
 
 
-<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Stars</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  <img src="https://img.shields.io/github/stars/SANDHOSH02?style=social" alt="GitHub Stars">
-</div>
-
