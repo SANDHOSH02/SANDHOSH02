@@ -1,9 +1,7 @@
 <div style="text-align: center; padding: 20px;">
   <!-- Header Image -->
-  <img src="github-header-image (1).png" alt="Header Image" style="max-width: 100%; height: auto; border-radius: 10px; margin-bottom: 20px;">
-
-
-
+  <img src="github-header-image (1).png" alt="Header Image" style="width: 100vw; height: auto; border-radius: 10px; margin-bottom: 20px;">
+  
 
 <div style="text-align: center; padding: 20px;">
   <!-- About Me Section -->
