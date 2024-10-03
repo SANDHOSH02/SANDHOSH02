@@ -11,6 +11,47 @@
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=SANDHOSH02&theme=blue_navy&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
   </div>
+<!-- GitHub Streak Stats Section -->
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Streak</h2>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDHOSH02&theme=blue_navy" alt="GitHub Streak Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
+</div>
+<!-- Visitor Count Badge -->
+<p style="font-size: 20px; margin: 30px 0; color: #4CAF50;">
+  <img src="https://komarev.com/ghpvc/?username=SANDHOSH02&color=brightgreen" alt="Profile Views">
+</p>
+<!-- Contributions Graph Section -->
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Contributions</h2>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SANDHOSH02&theme=react-dark" alt="GitHub Contribution Graph" style="max-width: 100%; height: auto; border-radius: 10px;">
+</div>
+<!-- Contact Section -->
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Get In Touch</h2>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="border-radius: 10px;">
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" style="border-radius: 10px;">
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="border-radius: 10px;">
+  </a>
+</div>
+<!-- Profile Badge -->
+<p>
+  <a href="https://github.com/SANDHOSH02">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-green" alt="Open Source Contributor">
+  </a>
+</p>
+<!-- Pinned Repositories Section -->
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Pinned Projects</h2>
+<p style="font-size: 20px;">Check out some of my featured repositories:</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <a href="https://github.com/SANDHOSH02/your-project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANDHOSH02&repo=your-project&theme=dark" alt="Pinned Repo" style="max-width: 100%; height: auto; border-radius: 10px;">
+  </a>
+</div>
 
   <!-- Compact Top Languages Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Top Languages</h2>
