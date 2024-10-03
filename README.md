@@ -1,4 +1,11 @@
 <div style="text-align: center; padding: 20px;">
+  <!-- Header Image -->
+  <img src="github-header-image (1).png" alt="Header Image" style="max-width: 100%; height: auto; border-radius: 10px; margin-bottom: 20px;">
+
+
+
+
+<div style="text-align: center; padding: 20px;">
   <!-- About Me Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">About Me</h2>
   <p style="font-size: 22px; font-weight: bold; line-height: 1.5;">
