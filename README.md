@@ -16,7 +16,7 @@
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Top Languages</h2>
   <div style="display: flex; justify-content: center; margin: 20px 0;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=compact&theme=blue_navy" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
     </a>
   </div>
 
