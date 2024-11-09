@@ -14,7 +14,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SANDHOSH02&theme=blue_navy&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
   </div>
 <!-- GitHub Streak Stats Section -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDHOSH02&theme=blue-navy" alt="GitHub Streak Stats">
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Streak</h2>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SANDHOSH02&theme=blue-navy" alt="GitHub Streak Stats" style="border-radius: 10px;">
+  </a>
+</div>
 
 
 
