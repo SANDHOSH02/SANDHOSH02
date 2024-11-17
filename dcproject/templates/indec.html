@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Process Simulation</title>
+    <script src="https://cdn.jsdelivr.net/npm/socket.io-client@4.4.0/dist/socket.io.min.js"></script>
+    <style>
+        #simulationOutput {
+            margin-top: 20px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            white-space: pre-wrap;
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Process Simulation</h1>
+    <button onclick="startSimulation()">Start Simulation</button>
+    <div id="simulationOutput">Loading...</div>
+
+    <script>
+        // Initialize the Socket.IO client
+        const socket = io();
+
+        // Listen for simulation updates
+        socket.on('simulation_update', (data) => {
+            const outputDiv = document.getElementById('simulationOutput');
+            outputDiv.textContent += data.message + "\n";
+        });
+
+        // Function to start the simulation by making a POST request
+        function startSimulation() {
+            fetch('/start_simulation', { method: 'POST' })
+                .then(response => response.text())
+                .then(data => {
+                    console.log('Simulation Started:', data);
+                });
+        }
+    </script>
+</body>
+</html>
