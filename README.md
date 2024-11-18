@@ -1,5 +1,4 @@
 
-
 <div style="text-align: center; padding: 20px;">
   <!-- About Me Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">About Me</h2>
