@@ -4,7 +4,7 @@
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">About Me</h2>
   <p style="font-size: 22px; font-weight: bold; line-height: 1.5;">
     🎓 <span style="color: #FF5722;">Student</span> | B.Tech Artificial Intelligence and Data Science<br>
-    💻 <span style="color: #FF5722;">Actively working on React.js and problem-solving skills</span>
+    💻 <span style="color: #FF5722;">Actively working on React.js and  AI and problem-solving skills</span>
   </p>
 
   <!-- GitHub Stats Section -->
