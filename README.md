@@ -57,4 +57,8 @@
   </div>
 </div>
 
+<div>
 
+ <img src="assets/github-user-contribution.svg" alt="" >
+  
+</div>
