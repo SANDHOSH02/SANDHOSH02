@@ -51,16 +51,7 @@
 
   <!-- Trophies Section -->
   
-  <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Trophies</h2>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=SANDHOSH02&theme=onedark" alt="GitHub Trophies" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </div>
-</div>
 
-  <!-- GitHub Contribution Graph -->
-  <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Contributions</h2>
-  <div style="display: flex; justify-content: center; margin: 20px 0;">
-    <img src="https://raw.githubusercontent.com/SANDHOSH02/Portfolio-professional/main/assets/github-user-contribution.svg" alt="GitHub Contribution Graph" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </div>
+
 
 </div>
