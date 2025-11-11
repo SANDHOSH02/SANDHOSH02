@@ -20,11 +20,11 @@
     </a>
   </div>
 
-  <!-- LeetCode Stats Section -->
+ <!-- LeetCode Stats Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">LeetCode Stats</h2>
   <div style="display: flex; justify-content: center; margin: 20px 0;">
     <a href="https://leetcode.com/u/santhoshgowravan/" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/sandhosh?theme=dark&ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px; max-width: 100%; height: auto;">
+      <img src="https://leetcard.jacoblin.cool/santhoshgowravan?theme=dark&ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px; max-width: 100%; height: auto;">
     </a>
   </div>
 
