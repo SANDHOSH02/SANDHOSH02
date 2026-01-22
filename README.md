@@ -33,6 +33,21 @@
     </a>
   </div>
 
+  
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">
+  GitHub Trophies
+</h2>
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=SANDHOSH02&theme=onedark&margin-w=15&margin-h=15"
+      alt="GitHub Profile Trophy"
+      style="border-radius: 10px;"
+    >
+  </a>
+</div>
+
   <!-- Compact Top Languages Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Top Languages</h2>
   <div style="display: flex; justify-content: center; margin: 20px 0;">
@@ -40,6 +55,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=compact&theme=blue_navy" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
     </a>
   </div>
+
+
+  
 
   <!-- Contact Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">Get In Touch</h2>
