@@ -1,3 +1,24 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/banner.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/banner-light.jpg">
+  <img src="docs/banner.jpg" alt="Claude Forge" width="100%">
+</picture>
+
+<p align="center">
+  <strong>Turn Claude Code into a full development environment</strong>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/CLAUDE_CODE-%E2%89%A51.0-blueviolet?style=for-the-badge" alt="Claude Code"></a>
+  <a href="https://github.com/sangrokjung/claude-forge/stargazers"><img src="https://img.shields.io/github/stars/sangrokjung/claude-forge?style=for-the-badge&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/sangrokjung/claude-forge/network/members"><img src="https://img.shields.io/github/forks/sangrokjung/claude-forge?style=for-the-badge&color=orange" alt="Forks"></a>
+  <a href="https://github.com/sangrokjung/claude-forge/graphs/contributors"><img src="https://img.shields.io/github/contributors/sangrokjung/claude-forge?style=for-the-badge&color=green" alt="Contributors"></a>
+  <a href="https://github.com/sangrokjung/claude-forge/commits/main"><img src="https://img.shields.io/github/last-commit/sangrokjung/claude-forge?style=for-the-badge" alt="Last Commit"></a>
+</p>
+
+
+
 <div style="text-align: center; padding: 20px;">
   <!-- About Me Section -->
   <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">About Me</h2>
